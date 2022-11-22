@@ -3,10 +3,10 @@ Use Blips from the command line!
 
 # Caveats/Roadmap
 *Not yet implemented features include, but are not limited to:*
-- Viewing statuses
-- Liking statuses
+- ~~Viewing statuses~~
+- ~~Liking statuses~~
 - Replying to people/mentions
-- Direct messages (Soon. Maybe)
+- ~~Direct messages (Soon. Maybe)~~
 
 # Installation
 You should have Python 3.8 or higher, and:
